@@ -105,7 +105,7 @@ const Todolist = () => {
 
     return (
         <div className="notepad-container">
-            <h1 className="notepad-title">Todo List</h1>
+            <h1 className="notepad-title">Tareas por Hacer</h1>
             
             {/* Entrada */}
             <input 
